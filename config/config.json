@@ -1,0 +1,12 @@
+{
+  "ticker": "AAPL",
+  "period": "5y",
+  "predict_days": 30,
+  "save_model": true,
+  "window_size": 60,
+  "epochs": 51,
+  "batch_size": 32,
+  "learning_rate": 0.0003,
+  "units": 100,
+  "dropout_rate": 0.2
+}

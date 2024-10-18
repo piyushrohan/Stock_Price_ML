@@ -1,0 +1,24 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Intellij files
+*.idea
+
+# Ignore ML models
+*.h5
+
+#Ignore png files
+*.png
+
+#Ignore csv files
+*.csv
